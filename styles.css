@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+#search-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+#autocomplete-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ddd;
+  border-top: none;
+  display: none;
+  position: absolute;
+  width: 100%;
+  box-sizing: border-box;
+  background: white;
+}
+#autocomplete-list li {
+  padding: 10px;
+  cursor: pointer;
+}
+#autocomplete-list li:hover {
+  background: #f0f0f0;
+}
+#repos-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+#repos-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+#repos-list button {
+  background: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.search-container {
+  position: relative;
+  width: 100%;
+}
