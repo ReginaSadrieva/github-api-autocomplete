@@ -24,4 +24,4 @@ Let harvest come.
 Let the craft become mine.
 
 Unseal the code `index.html`
-[https://reginasadrieva.github.io/WebCore-ResponsiveDesign-6.8/](https://reginasadrieva.github.io/github-api-autocomplete/)
+https://reginasadrieva.github.io/github-api-autocomplete/
