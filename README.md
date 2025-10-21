@@ -14,7 +14,6 @@ HTML5
 SCSS
 JavaScript
 
-
 ᚨᚲᛇᛃᛟ Getting Started
 Let the flow of code become effortless.
 Let fire of skill awaken.
@@ -22,4 +21,4 @@ Let all barriers fall.
 Let harvest come.
 Let the craft become mine.
 
-Unseal the code index.html
+Unseal the code index.html https://reginasadrieva.github.io/github-api-autocomplete/
